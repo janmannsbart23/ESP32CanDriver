@@ -1,3 +1,6 @@
+# Forked from https://github.com/miwagner/ESP32-Arduino-CAN
+No has ability to set max wait time when reading can frames (i experienced some problems with this)
+
 # Arduino Library for the ESP32 CAN Bus (ESP32-Arduino-CAN)
 
 ## Features
